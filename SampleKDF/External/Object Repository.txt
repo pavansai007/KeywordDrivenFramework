@@ -1,0 +1,3 @@
+Username=//input[@name="email"]
+Password=//input[@name="current-password"]
+Login=//button[@class="Button_button__URNp+ Button_primary__d2Jt3 Button_fullwidth__0HLEu"]
